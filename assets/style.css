@@ -1,0 +1,17 @@
+body {
+    background: blue;
+}
+
+body {
+    h1 {
+        color: #ABAB23;
+        font-weight: bolder;
+    }
+}
+h1{
+      font-size: 5em
+}
+p {
+    color: "cyan";
+    font-size: 2rem;
+}
