@@ -9,5 +9,5 @@ Read the test output and update the style.css and index.html files to make the t
 `npm install`
 
 ### Run tests  
-`npx stylelint "**/*.css"`
-`npm exec html-validate index.html`
+- `npx stylelint "**/*.css"`
+- `npm exec html-validate index.html`
