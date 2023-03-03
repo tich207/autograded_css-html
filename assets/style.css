@@ -1,17 +1,17 @@
 body {
     background: blue;
 }
-
 body {
-    h1 {
-        color: #ABAB23;
-        font-weight: bolder;
-    }
-}
-h1{
-      font-size: 5em
-}
-p {
-    color: "cyan";
+    background: rgb(223, 220, 240);
+  }
+  
+  h1 {
+    color: #abab23;
+    font-weight: bold;
+    font-size: 5em;
+  }
+  
+  p {
+    color: cyan;
     font-size: 2rem;
-}
+  }
